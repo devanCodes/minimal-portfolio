@@ -1,7 +1,7 @@
 export default [
     {
         title: 'Personal Training Website',
-        imgUrl: '',
+        imgUrl: 'src/assets/WellnessZoneCover.PNG',
         stack: ['React', 'Tailwind', 'Vite'],
         link: '',
     },

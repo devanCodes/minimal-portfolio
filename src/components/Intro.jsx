@@ -7,12 +7,15 @@ function Intro() {
         Devan
       </h1>
       <p className="text-base md:text-xl mb-3 font-medium">
-        Software Engineer & Web Developer
+        Front-End React Developer
       </p>
       <p className="text-sm max-w-xl mb-6 font-bold">
-        Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Incidunt nobis quaerat nulla libero eaque accusamus
-        beatae molestias fugiat aperiam temporibus.{" "}
+        Hi, I'm Devan Hailey, a self-taught Front-End React Developer with a
+        passion for creating high-quality web applications. My goal is to create
+        seamless digital experiences that not only meet users' needs, but also
+        leave them inspired and engaged. Below are my personal projects, a
+        timeline of my journey to and in Software Development, and a contact form if
+        you'd like to reach out! Also, feel free to check out my{" "}
         <a
           href="https://drive.google.com/file/d/1cBn5ZUf_RTGMXx6VmT7LVTeb5Fh-5hqM/view?usp=sharing"
           target="_blank"
@@ -22,22 +25,17 @@ function Intro() {
           {" "}
           Resume
         </a>{" "}
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat nulla
-        rem dolorem eligendi, harum inventore modi cum officia id laudantium
-        adipisci sint ducimus repellat earum unde est cupiditate. Aperiam, a.{" "}
+        as well as my{" "}
         <a
           href="https://github.com/devanCodes"
           target="_blank"
           className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600"
           rel="noreferrer noopener"
         >
-          {" "}
+          
           Github
         </a>{" "}
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti,
-        expedita neque? Repellendus iste excepturi doloremque. Ea cupiditate
-        deserunt iusto repudiandae voluptate distinctio aut, ab quas dolorem
-        illum. Exercitationem, alias quos.{" "}
+        and{" "}
         <a
           href="https://linkedin.com/in/devan-hailey"
           target="_blank"
@@ -47,10 +45,7 @@ function Intro() {
           {" "}
           LinkedIn
         </a>{" "}
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum molestias,
-        soluta itaque rerum atque consectetur accusantium id natus velit
-        nesciunt beatae at ipsa, ducimus dolorum. Magnam ducimus voluptatibus
-        velit temporibus!
+        profiles!
       </p>
     </div>
   );
