@@ -6,8 +6,10 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
 function App() {
+  // defines 'App' component; initializes a piece of state called 'theme' using the 'useState' hook; 'theme' will be used to determine whether the app should have a light or dark theme
   const [theme, setTheme] = useState(null);
 
+  // 'useEffect' hook runs once when the component is mounted; it checks the user's system preferences for a dark mode and sets the 'theme' state accordingly
   useEffect(() => {
     if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
       setTheme("dark");
@@ -16,10 +18,12 @@ function App() {
     }
   }, []);
 
+  // this function toggles the theme between "dark" and "light" when called; will change the theme when the button is clicked
   const handleThemeSwitch = () => {
     setTheme(theme === "dark" ? "light" : "dark");
   };
 
+  // this 'useEffect' hook listens for changes to the 'theme' state; when the 'theme' changes, it adds or removes the "dark" class from the 'document.documentElement' (the root HTML element); is used to toggle CSS styles for dark mode
   useEffect(() => {
     if (theme === "dark") {
       document.documentElement.classList.add("dark");
@@ -28,6 +32,7 @@ function App() {
     }
   }, [theme]);
 
+  // the constants 'sun' and 'moon' store SVG code for their respective icons; they will be conditionally rendered based on the 'theme' state
   const sun = (
     <svg
       xmlns="http://www.w3.org/2000/svg"
