@@ -21,7 +21,7 @@ function Intro() {
           href="https://drive.google.com/file/d/1cBn5ZUf_RTGMXx6VmT7LVTeb5Fh-5hqM/view?usp=sharing"
           target="_blank" // if user selects link, it will open up the link in a new tab instead of redirecting them to the location in the same tab
           className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600"
-          rel="noreferrer noopener" // this is often used in links when you want to enhance privacy and security by preventing the linked page from knkowing the referring page's URL (noreferrer) and from having access to the window object of the referring page (noopener)
+          rel="noreferrer noopener" // this is often used in links when you want to enhance privacy and security by preventing the linked page from knowing the referring page's URL (noreferrer) and from having access to the window object of the referring page (noopener)
         >
           {" "}
           Resume
