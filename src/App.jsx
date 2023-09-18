@@ -18,7 +18,7 @@ function App() {
     }
   }, []);
 
-  // this function toggles the theme between "dark" and "light" when called; will change the theme when the button is clicked
+  // this function toggles the theme between "dark" and "light" when called; will change the theme when the button is clicked; if the theme is dark, it will show the 'light' (sun) button, and vice-versa
   const handleThemeSwitch = () => {
     setTheme(theme === "dark" ? "light" : "dark");
   };
