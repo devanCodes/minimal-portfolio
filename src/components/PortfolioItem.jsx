@@ -1,6 +1,6 @@
 import React from "react";
 
-// this component accepts the 4 props mentioned below which will customize and display the portfolio item's content
+// this component accepts the 4 props mentioned below (see portfolio.js file) which will customize and display the portfolio item's content
 function PortfolioItem({ title, imgUrl, stack, link }) {
   return (
     <a

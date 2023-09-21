@@ -1,6 +1,6 @@
 import React from "react";
 
-// this component accepts the 4 props mentioned below; these props will be used to customize and display the content for each timeline item
+// this component accepts the 4 props mentioned below (see timeline.js file); these props will be used to customize and display the content for each timeline item
 function TimelineItem({ year, title, duration, details }) {
   return (
     <ol className="flex flex-col md:flex-row relative border-l border-stone-200 dark:border-stone-700">
