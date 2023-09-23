@@ -34,7 +34,7 @@ function Contact() {
           />
           <button
             type="button"
-            className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-lime-700 to-lime-400 drop-shadow-md hover:stroke-white"
+            className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-lime-700 to-lime-400 drop-shadow-md hover:stroke-white hover:scale-105 hover:duration-1000"
           >
             Work With Me
           </button>
