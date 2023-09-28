@@ -12,9 +12,9 @@ export default [
         link: '',
     },
     {
-        title: 'Future Project',
+        title: 'Tic-Tac-Toe',
         imgUrl: '',
-        stack: ['HTML', 'CSS', 'JavaScript'],
+        stack: ['HTML', 'CSS', 'JavaScript', 'Typescript', 'React', 'Webpack'],
         link: '',
     },
 ]
