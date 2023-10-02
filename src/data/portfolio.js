@@ -13,8 +13,8 @@ export default [
     },
     {
         title: 'Tic-Tac-Toe',
-        imgUrl: '',
+        imgUrl: 'src/assets/TicTacToeCover.PNG',
         stack: ['HTML', 'CSS', 'JavaScript', 'Typescript', 'React', 'Webpack'],
-        link: '',
+        link: 'https://devtictactoe.netlify.app/',
     },
 ]
