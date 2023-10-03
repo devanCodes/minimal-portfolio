@@ -1,6 +1,6 @@
-import WellnessZoneCover from '../assets/WellnessZoneCover.PNG';
-import PortfolioCover from '../assets/PortfolioCover.PNG';
-import TicTacToeCover from '../assets/TicTacToeCover.PNG';
+import WellnessZoneCover from './public/PortfolioCover.PNG';
+import PortfolioCover from './public/PortfolioCover.PNG';
+import TicTacToeCover from './public/TicTacToeCover.PNG';
 
 export default [
     {
