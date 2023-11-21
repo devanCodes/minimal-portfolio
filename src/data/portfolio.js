@@ -1,15 +1,15 @@
 export default [
     {
+        title: 'YelpCamp Website',
+        imgUrl: '/images/YelpCampCover.PNG',
+        stack: ['HTML', 'CSS', 'JavaScript', 'EJS', 'MongoDB'],
+        link: 'https://yelpcamp-p4n3.onrender.com/',
+    },
+    {
         title: 'Personal Training Website',
         imgUrl: '/images/WellnessZoneCover.PNG',
         stack: ['React', 'Tailwind', 'Vite'],
         link: 'https://wellness-zone.netlify.app/',
-    },
-    {
-        title: 'Developer Portfolio',
-        imgUrl: '/images/PortfolioCover.PNG',
-        stack: ['React', 'Tailwind', 'Vite'],
-        link: '',
     },
     {
         title: 'Tic-Tac-Toe',
