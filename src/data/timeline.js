@@ -1,7 +1,7 @@
 export default [
     {
         year: 'Today',
-        title: 'Junior Software Developer',
+        title: 'Software Developer',
         duration: '1 year',
         details: "As a self-taught developer, I committed myself to mastering React and its ecosystem. Through countless hours of dedicated study and hands-on projects, I've honed my skills in creating dynamic, user-friendly interfaces.",
     },
