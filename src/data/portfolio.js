@@ -1,7 +1,7 @@
 export default [
     {
         title: 'CampFinder Website',
-        imgUrl: '/images/YelpCampCover.PNG',
+        imgUrl: '/images/CampFinderCover.PNG',
         stack: ['HTML', 'CSS', 'JavaScript', 'EJS', 'MongoDB'],
         link: 'https://campfinder-gdlb.onrender.com/',
     },
