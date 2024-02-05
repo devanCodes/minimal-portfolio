@@ -1,9 +1,9 @@
 export default [
     {
-        title: 'YelpCamp Website',
+        title: 'CampFinder Website',
         imgUrl: '/images/YelpCampCover.PNG',
         stack: ['HTML', 'CSS', 'JavaScript', 'EJS', 'MongoDB'],
-        link: 'https://yelpcamp-p4n3.onrender.com/',
+        link: 'https://campfinder-gdlb.onrender.com/',
     },
     {
         title: 'Personal Training Website',
