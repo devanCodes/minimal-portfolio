@@ -7,14 +7,14 @@ function Intro() {
         Devan
       </h1>
       <p className="text-base md:text-xl mb-3 font-medium">
-        Software Developer
+        Technical Support Engineer
       </p>
       <p className="text-sm max-w-xl mb-6 font-bold">
-        Hi, I'm Devan Hailey, a self-taught Software Developer with a
+        Hi, I'm Devan Hailey, a self-taught Technical Support Engineer with a
         passion for creating high-quality web applications. My goal is to create
         seamless digital experiences that not only meet users' needs, but also
         leave them inspired and engaged. Below are my personal projects, a
-        timeline of my journey to and in Software Development, and a contact
+        timeline of my journey to and in the world of technology, and a contact
         form if you'd like to reach out! Also, feel free to check out my{" "}
         {/* links to my resume and Github and LinkedIn profiles */}
         <a
