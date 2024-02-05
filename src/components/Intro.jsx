@@ -7,10 +7,10 @@ function Intro() {
         Devan
       </h1>
       <p className="text-base md:text-xl mb-3 font-medium">
-        Technical Support Engineer
+        Tech Enthusiast | Developer | Engineer
       </p>
       <p className="text-sm max-w-xl mb-6 font-bold">
-        Hi, I'm Devan Hailey, a self-taught Technical Support Engineer with a
+        Hi, I'm Devan Hailey, a self-taught developer/engineer with a
         passion for creating high-quality web applications. My goal is to create
         seamless digital experiences that not only meet users' needs, but also
         leave them inspired and engaged. Below are my personal projects, a

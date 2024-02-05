@@ -1,9 +1,9 @@
 export default [
     {
         year: 'Today',
-        title: 'Technical Support Engineer',
+        title: 'Developer/Engineer',
         duration: '1 year',
-        details: "As a self-taught technology enthusiast, I committed myself to mastering various tools and technologies used in the software industry. Through countless hours of dedicated study and hands-on projects, I've honed my skills in creating dynamic, user-friendly interfaces and problem-solving to enhance the user experience.",
+        details: "As a self-taught tech enthusiast, I committed myself to mastering various tools and technologies used in the software industry. Through countless hours of dedicated study and hands-on projects, I've honed my skills in creating dynamic, user-friendly interfaces and problem-solving to enhance the user experience.",
     },
     {
         year: '2022',
