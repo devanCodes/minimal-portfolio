@@ -33,7 +33,7 @@ function Contact() {
             className="p-2 mb-4 bg-transparent border-2 rounded-md focus:outline-none"
           />
           <button
-            type="button"
+            type="submit"
             className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-lime-700 to-lime-400 drop-shadow-md hover:stroke-white hover:scale-105 hover:duration-1000"
           >
             Work With Me
